@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estou estudando: Engenharia de Software (PUC Minas)
 - 🌱 Estou aprendendo: JavaScript e Java 
-- 💬 Estou procurando um estágio
+- 💬
 
 ##
 
