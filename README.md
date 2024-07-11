@@ -1,21 +1,10 @@
 ### Eai! Eu sou o Arthur Henrique 👋😀👋
 
-- 👨‍🎓 Estou estudando: Engenharia de Software (PUC Minas)
-- 🌱 Estou aprendendo: JavaScript e Java 
+- 🏢 Trabalhando: Desenvolvedor FullStack MinasMaquinas - Mercedes Benz
+- 👨‍🎓 Estudando: Engenharia de Software (PUC Minas)
+- 🌱 Me especializando em: C# - ASP.NET MVC5, DDD, EntityFramework, AutoMapper, SQL, Selenium e JavaScript.
 - 💬
 
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Art-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Art-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Art-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  <img align="center" alt="Art-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Art-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Art-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Art-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-</div>
 
 ##
 ## Meus contatos: 
